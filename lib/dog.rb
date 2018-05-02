@@ -17,7 +17,7 @@ class Dog
     "#{@name}".strip
   end
   
-  def bark()
+  def bark
     puts "woof!"
   end
   
